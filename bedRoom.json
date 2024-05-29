@@ -14,7 +14,7 @@
       "Available in multiple colors"
     ],
     "price": 1200,
-    "discount": 10,
+    "discount": 1400,
     "reviews": 20,
     "photosArray": [
       "https://images.pexels.com/photos/8135289/pexels-photo-8135289.jpeg",
@@ -24,9 +24,25 @@
       "https://images.pexels.com/photos/6489082/pexels-photo-6489082.jpeg",
       "https://images.pexels.com/photos/12119234/pexels-photo-12119234.jpeg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
-    "size": [{ "Queen": 1000 }, { "King": 1200 }],
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 10
   },
   {
@@ -44,7 +60,7 @@
       "Easy to assemble"
     ],
     "price": 950,
-    "discount": 5,
+    "discount": 1000,
     "reviews": 25,
     "photosArray": [
       "https://images.pexels.com/photos/7163597/pexels-photo-7163597.jpeg",
@@ -55,8 +71,24 @@
       "https://images.pexels.com/photos/7504654/pexels-photo-7504654.jpeg"
     ],
     "isTrending": false,
-    "NewProduct": true,
-    "size": [{ "Queen": 950 }],
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 0
   },
   {
@@ -74,7 +106,7 @@
       "Available in white and brown"
     ],
     "price": 650,
-    "discount": 8,
+    "discount": 800,
     "reviews": 18,
     "photosArray": [
       "https://images.pexels.com/photos/20350319/pexels-photo-20350319/free-photo-of-interior-design-of-bedroom.jpeg",
@@ -84,9 +116,25 @@
       "https://images.pexels.com/photos/13871318/pexels-photo-13871318.jpeg",
       "https://images.pexels.com/photos/13871317/pexels-photo-13871317.jpeg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
-    "size": [{ "Twin": 650 }],
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 20
   },
   {
@@ -104,7 +152,7 @@
       "Available in multiple colors"
     ],
     "price": 800,
-    "discount": 10,
+    "discount": 1000,
     "reviews": 30,
     "photosArray": [
       "https://images.pexels.com/photos/3958960/pexels-photo-3958960.jpeg",
@@ -114,9 +162,25 @@
       "https://images.pexels.com/photos/5158497/pexels-photo-5158497.jpeg",
       "https://images.pexels.com/photos/5137981/pexels-photo-5137981.jpeg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
-    "size": [{ "Twin": 800 }],
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 15
   },
   {
@@ -134,7 +198,7 @@
       "Available in king and queen sizes"
     ],
     "price": 1500,
-    "discount": 12,
+    "discount": 1600,
     "reviews": 40,
     "photosArray": [
       "https://images.pexels.com/photos/12715452/pexels-photo-12715452.jpeg",
@@ -144,9 +208,25 @@
       "https://images.pexels.com/photos/4916513/pexels-photo-4916513.jpeg",
       "https://images.pexels.com/photos/14025910/pexels-photo-14025910.jpeg"
     ],
-    "isTrending": true,
-    "NewProduct": true,
-    "size": [{ "Queen": 1400 }, { "King": 1500 }],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 8
   },
   {
@@ -164,7 +244,7 @@
       "Modern design"
     ],
     "price": 700,
-    "discount": 15,
+    "discount": 850,
     "reviews": 22,
     "photosArray": [
       "https://images.pexels.com/photos/4713251/pexels-photo-4713251.jpeg",
@@ -174,9 +254,25 @@
       "https://images.pexels.com/photos/7614411/pexels-photo-7614411.jpeg",
       "https://images.pexels.com/photos/8082217/pexels-photo-8082217.jpeg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
-    "size": [{ "Full": 700 }, { "Queen": 800 }],
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 12
   },
   {
@@ -194,7 +290,7 @@
       "Available in king and queen sizes"
     ],
     "price": 1350,
-    "discount": 8,
+    "discount": 1500,
     "reviews": 28,
     "photosArray": [
       "https://images.pexels.com/photos/6207819/pexels-photo-6207819.jpeg",
@@ -205,8 +301,24 @@
       "https://images.pexels.com/photos/6585602/pexels-photo-6585602.jpeg"
     ],
     "isTrending": false,
-    "NewProduct": true,
-    "size": [{ "Queen": 1200 }, { "King": 1350 }],
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 10
   },
   {
@@ -224,19 +336,35 @@
       "Available in multiple finishes"
     ],
     "price": 600,
-    "discount": 10,
+    "discount": 800,
     "reviews": 20,
     "photosArray": [
       "https://images.pexels.com/photos/7587779/pexels-photo-7587779.jpeg",
       "https://images.pexels.com/photos/10827347/pexels-photo-10827347.jpeg",
-      "https://example.com/photos/bed23.jpg",
-      "https://example.com/photos/bed23.jpg",
-      "https://example.com/photos/bed23.jpg",
-      "https://example.com/photos/bed24.jpg"
+      "https://images.pexels.com/photos/269148/pexels-photo-269148.jpeg",
+      "https://images.pexels.com/photos/6753151/pexels-photo-6753151.jpeg",
+      "https://images.pexels.com/photos/7195857/pexels-photo-7195857.jpeg",
+      "https://images.pexels.com/photos/3143127/pexels-photo-3143127.jpeg"
     ],
     "isTrending": false,
-    "NewProduct": true,
-    "size": [{ "Twin": 600 }],
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 15
   },
   {
@@ -254,16 +382,32 @@
       "Available in king and queen sizes"
     ],
     "price": 1400,
-    "discount": 10,
+    "discount": 1500,
     "reviews": 25,
     "photosArray": [
       "https://example.com/photos/bed25.jpg",
       "https://example.com/photos/bed26.jpg",
       "https://example.com/photos/bed27.jpg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
-    "size": [{ "Queen": 1300 }, { "King": 1400 }],
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 12
   },
   {
@@ -281,16 +425,32 @@
       "Available in multiple finishes"
     ],
     "price": 900,
-    "discount": 12,
+    "discount": 1200,
     "reviews": 30,
     "photosArray": [
       "https://example.com/photos/bed28.jpg",
       "https://example.com/photos/bed29.jpg",
       "https://example.com/photos/bed30.jpg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
-    "size": [{ "Full": 900 }, { "Queen": 1000 }],
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
     "inStock": 10
   }
 ]
