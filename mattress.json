@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Memory Foam Mattress",
+    "availability": "In Stock",
+    "brand": "SleepWell",
+    "category": "Mattress",
+    "SKU": "MT001",
+    "description": "A high-quality memory foam mattress for ultimate comfort.",
+    "detailDescription": [
+      "Memory foam technology",
+      "Cooling gel layer",
+      "Hypoallergenic materials",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 500,
+    "discount": 600,
+    "reviews": 50,
+    "photosArray": [
+      "https://example.com/photos/mattress1.jpg",
+      "https://example.com/photos/mattress2.jpg",
+      "https://example.com/photos/mattress3.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 30
+  },
+  {
+    "name": "Hybrid Mattress",
+    "availability": "In Stock",
+    "brand": "DreamSleep",
+    "category": "Mattress",
+    "SKU": "MT002",
+    "description": "A hybrid mattress combining memory foam and innerspring.",
+    "detailDescription": [
+      "Hybrid construction",
+      "Supportive innerspring",
+      "Pressure relief",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 700,
+    "discount": 800,
+    "reviews": 40,
+    "photosArray": [
+      "https://example.com/photos/mattress4.jpg",
+      "https://example.com/photos/mattress5.jpg",
+      "https://example.com/photos/mattress6.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 25
+  },
+  {
+    "name": "Latex Mattress",
+    "availability": "In Stock",
+    "brand": "EcoSleep",
+    "category": "Mattress",
+    "SKU": "MT003",
+    "description": "A natural latex mattress for eco-friendly comfort.",
+    "detailDescription": [
+      "100% natural latex",
+      "Eco-friendly materials",
+      "Breathable design",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 800,
+    "discount": 950,
+    "reviews": 35,
+    "photosArray": [
+      "https://example.com/photos/mattress7.jpg",
+      "https://example.com/photos/mattress8.jpg",
+      "https://example.com/photos/mattress9.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 20
+  },
+  {
+    "name": "Gel Mattress",
+    "availability": "In Stock",
+    "brand": "CoolSleep",
+    "category": "Mattress",
+    "SKU": "MT004",
+    "description": "A gel-infused mattress for cool and comfortable sleep.",
+    "detailDescription": [
+      "Gel-infused memory foam",
+      "Cooling technology",
+      "Pressure relief",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 600,
+    "discount": 700,
+    "reviews": 45,
+    "photosArray": [
+      "https://example.com/photos/mattress10.jpg",
+      "https://example.com/photos/mattress11.jpg",
+      "https://example.com/photos/mattress12.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 28
+  },
+  {
+    "name": "Orthopedic Mattress",
+    "availability": "In Stock",
+    "brand": "HealthSleep",
+    "category": "Mattress",
+    "SKU": "MT005",
+    "description": "An orthopedic mattress for enhanced support and comfort.",
+    "detailDescription": [
+      "Orthopedic design",
+      "Firm support",
+      "Hypoallergenic materials",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 650,
+    "discount": 800,
+    "reviews": 38,
+    "photosArray": [
+      "https://example.com/photos/mattress13.jpg",
+      "https://example.com/photos/mattress14.jpg",
+      "https://example.com/photos/mattress15.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 22
+  },
+  {
+    "name": "Pillow Top Mattress",
+    "availability": "In Stock",
+    "brand": "LuxurySleep",
+    "category": "Mattress",
+    "SKU": "MT006",
+    "description": "A luxurious pillow top mattress for ultimate comfort.",
+    "detailDescription": [
+      "Pillow top layer",
+      "High-density foam",
+      "Supportive design",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 750,
+    "discount": 900,
+    "reviews": 42,
+    "photosArray": [
+      "https://example.com/photos/mattress16.jpg",
+      "https://example.com/photos/mattress17.jpg",
+      "https://example.com/photos/mattress18.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 26
+  },
+  {
+    "name": "Pocket Spring Mattress",
+    "availability": "In Stock",
+    "brand": "SpringWell",
+    "category": "Mattress",
+    "SKU": "MT007",
+    "description": "A pocket spring mattress for superior support.",
+    "detailDescription": [
+      "Pocket spring design",
+      "High-density foam",
+      "Breathable materials",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 680,
+    "discount": 800,
+    "reviews": 34,
+    "photosArray": [
+      "https://example.com/photos/mattress19.jpg",
+      "https://example.com/photos/mattress20.jpg",
+      "https://example.com/photos/mattress21.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 18
+  },
+  {
+    "name": "Plush Mattress",
+    "availability": "In Stock",
+    "brand": "ComfortSleep",
+    "category": "Mattress",
+    "SKU": "MT008",
+    "description": "A plush mattress for a soft and comfortable sleep.",
+    "detailDescription": [
+      "Plush top layer",
+      "Supportive design",
+      "Breathable materials",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 620,
+    "discount": 700,
+    "reviews": 37,
+    "photosArray": [
+      "https://example.com/photos/mattress22.jpg",
+      "https://example.com/photos/mattress23.jpg",
+      "https://example.com/photos/mattress24.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 20
+  },
+  {
+    "name": "Firm Mattress",
+    "availability": "In Stock",
+    "brand": "SupportSleep",
+    "category": "Mattress",
+    "SKU": "MT009",
+    "description": "A firm mattress for enhanced support and stability.",
+    "detailDescription": [
+      "Firm support",
+      "High-density foam",
+      "Durable construction",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 600,
+    "discount": 650,
+    "reviews": 40,
+    "photosArray": [
+      "https://example.com/photos/mattress25.jpg",
+      "https://example.com/photos/mattress26.jpg",
+      "https://example.com/photos/mattress27.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 25
+  },
+  {
+    "name": "Bamboo Mattress",
+    "availability": "In Stock",
+    "brand": "EcoSleep",
+    "category": "Mattress",
+    "SKU": "MT010",
+    "description": "An eco-friendly bamboo mattress for a natural sleep experience.",
+    "detailDescription": [
+      "Bamboo-infused materials",
+      "Breathable design",
+      "Hypoallergenic",
+      "10-year warranty",
+      "Available in multiple sizes"
+    ],
+    "price": 650,
+    "discount": 700,
+    "reviews": 35,
+    "photosArray": [
+      "https://example.com/photos/mattress28.jpg",
+      "https://example.com/photos/mattress29.jpg",
+      "https://example.com/photos/mattress30.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 18
+  }
+]
