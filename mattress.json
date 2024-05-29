@@ -17,9 +17,12 @@
     "discount": 600,
     "reviews": 50,
     "photosArray": [
-      "https://example.com/photos/mattress1.jpg",
-      "https://example.com/photos/mattress2.jpg",
-      "https://example.com/photos/mattress3.jpg"
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg",
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg",
+      "https://images.pexels.com/photos/7195731/pexels-photo-7195731.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -60,9 +63,12 @@
     "discount": 800,
     "reviews": 40,
     "photosArray": [
-      "https://example.com/photos/mattress4.jpg",
-      "https://example.com/photos/mattress5.jpg",
-      "https://example.com/photos/mattress6.jpg"
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg",
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg",
+      "https://images.pexels.com/photos/7195731/pexels-photo-7195731.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -103,9 +109,12 @@
     "discount": 950,
     "reviews": 35,
     "photosArray": [
-      "https://example.com/photos/mattress7.jpg",
-      "https://example.com/photos/mattress8.jpg",
-      "https://example.com/photos/mattress9.jpg"
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg",
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg",
+      "https://images.pexels.com/photos/7195731/pexels-photo-7195731.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -146,9 +155,12 @@
     "discount": 700,
     "reviews": 45,
     "photosArray": [
-      "https://example.com/photos/mattress10.jpg",
-      "https://example.com/photos/mattress11.jpg",
-      "https://example.com/photos/mattress12.jpg"
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg",
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg",
+      "https://images.pexels.com/photos/7195731/pexels-photo-7195731.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -189,9 +201,12 @@
     "discount": 800,
     "reviews": 38,
     "photosArray": [
-      "https://example.com/photos/mattress13.jpg",
-      "https://example.com/photos/mattress14.jpg",
-      "https://example.com/photos/mattress15.jpg"
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg",
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/7195731/pexels-photo-7195731.jpeg",
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -232,9 +247,12 @@
     "discount": 900,
     "reviews": 42,
     "photosArray": [
-      "https://example.com/photos/mattress16.jpg",
-      "https://example.com/photos/mattress17.jpg",
-      "https://example.com/photos/mattress18.jpg"
+      "https://images.pexels.com/photos/7195731/pexels-photo-7195731.jpeg",
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg",
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -275,9 +293,12 @@
     "discount": 800,
     "reviews": 34,
     "photosArray": [
-      "https://example.com/photos/mattress19.jpg",
-      "https://example.com/photos/mattress20.jpg",
-      "https://example.com/photos/mattress21.jpg"
+      "https://images.pexels.com/photos/6585762/pexels-photo-6585762.jpeg",
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg",
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -318,9 +339,12 @@
     "discount": 700,
     "reviews": 37,
     "photosArray": [
-      "https://example.com/photos/mattress22.jpg",
-      "https://example.com/photos/mattress23.jpg",
-      "https://example.com/photos/mattress24.jpg"
+      "https://images.pexels.com/photos/7195720/pexels-photo-7195720.jpeg",
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg",
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -361,9 +385,12 @@
     "discount": 650,
     "reviews": 40,
     "photosArray": [
-      "https://example.com/photos/mattress25.jpg",
-      "https://example.com/photos/mattress26.jpg",
-      "https://example.com/photos/mattress27.jpg"
+      "https://images.pexels.com/photos/6585762/pexels-photo-6585762.jpeg",
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg",
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -404,9 +431,12 @@
     "discount": 700,
     "reviews": 35,
     "photosArray": [
-      "https://example.com/photos/mattress28.jpg",
-      "https://example.com/photos/mattress29.jpg",
-      "https://example.com/photos/mattress30.jpg"
+      "https://images.pexels.com/photos/6585740/pexels-photo-6585740.jpeg",
+      "https://images.pexels.com/photos/6934230/pexels-photo-6934230.jpeg",
+      "https://images.pexels.com/photos/7045865/pexels-photo-7045865.jpeg",
+      "https://images.pexels.com/photos/7227612/pexels-photo-7227612.jpeg",
+      "https://images.pexels.com/photos/7227620/pexels-photo-7227620.jpeg",
+      "https://images.pexels.com/photos/7227615/pexels-photo-7227615.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
