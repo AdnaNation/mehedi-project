@@ -1,0 +1,293 @@
+[
+  {
+    "name": "Modern King Bed",
+    "availability": "In Stock",
+    "brand": "SleepWell",
+    "category": "Bed Room",
+    "SKU": "BR001",
+    "description": "A luxurious king size bed with a contemporary design.",
+    "detailDescription": [
+      "High-quality wood",
+      "Upholstered headboard",
+      "Sturdy construction",
+      "Easy assembly",
+      "Available in multiple colors"
+    ],
+    "price": 1200,
+    "discount": 10,
+    "reviews": 20,
+    "photosArray": [
+      "https://images.pexels.com/photos/8135289/pexels-photo-8135289.jpeg",
+      "https://images.pexels.com/photos/8089260/pexels-photo-8089260.jpeg",
+      "https://images.pexels.com/photos/6489083/pexels-photo-6489083.jpeg",
+      "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg",
+      "https://images.pexels.com/photos/6489082/pexels-photo-6489082.jpeg",
+      "https://images.pexels.com/photos/12119234/pexels-photo-12119234.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [{ "Queen": 1000 }, { "King": 1200 }],
+    "inStock": 10
+  },
+  {
+    "name": "Rustic Queen Bed",
+    "availability": "Out of Stock",
+    "brand": "WoodCraft",
+    "category": "Bed Room",
+    "SKU": "BR002",
+    "description": "A queen size bed with a rustic finish.",
+    "detailDescription": [
+      "Solid wood frame",
+      "Handcrafted design",
+      "Eco-friendly materials",
+      "Durable finish",
+      "Easy to assemble"
+    ],
+    "price": 950,
+    "discount": 5,
+    "reviews": 25,
+    "photosArray": [
+      "https://images.pexels.com/photos/7163597/pexels-photo-7163597.jpeg",
+      "https://images.pexels.com/photos/5824491/pexels-photo-5824491.jpeg",
+      "https://images.pexels.com/photos/6156879/pexels-photo-6156879.jpeg",
+      "https://images.pexels.com/photos/7746938/pexels-photo-7746938.jpeg",
+      "https://images.pexels.com/photos/9565725/pexels-photo-9565725.jpeg",
+      "https://images.pexels.com/photos/7504654/pexels-photo-7504654.jpeg"
+    ],
+    "isTrending": false,
+    "NewProduct": true,
+    "size": [{ "Queen": 950 }],
+    "inStock": 0
+  },
+  {
+    "name": "Classic Twin Bed",
+    "availability": "In Stock",
+    "brand": "DreamHome",
+    "category": "Bed Room",
+    "SKU": "BR003",
+    "description": "A classic twin bed perfect for any bedroom.",
+    "detailDescription": [
+      "Timeless design",
+      "High-quality materials",
+      "Sturdy frame",
+      "Easy to assemble",
+      "Available in white and brown"
+    ],
+    "price": 650,
+    "discount": 8,
+    "reviews": 18,
+    "photosArray": [
+      "https://images.pexels.com/photos/20350319/pexels-photo-20350319/free-photo-of-interior-design-of-bedroom.jpeg",
+      "https://images.pexels.com/photos/15456203/pexels-photo-15456203/free-photo-of-double-bed-in-cozy-bedroom.jpeg",
+      "https://images.pexels.com/photos/4112557/pexels-photo-4112557.jpeg",
+      "https://images.pexels.com/photos/5461590/pexels-photo-5461590.jpeg",
+      "https://images.pexels.com/photos/13871318/pexels-photo-13871318.jpeg",
+      "https://images.pexels.com/photos/13871317/pexels-photo-13871317.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [{ "Twin": 650 }],
+    "inStock": 20
+  },
+  {
+    "name": "Modern Bunk Bed",
+    "availability": "In Stock",
+    "brand": "KidsDream",
+    "category": "Bed Room",
+    "SKU": "BR004",
+    "description": "A modern bunk bed with safety features.",
+    "detailDescription": [
+      "Solid wood construction",
+      "Safety rails included",
+      "Convertible design",
+      "Easy to assemble",
+      "Available in multiple colors"
+    ],
+    "price": 800,
+    "discount": 10,
+    "reviews": 30,
+    "photosArray": [
+      "https://images.pexels.com/photos/3958960/pexels-photo-3958960.jpeg",
+      "https://images.pexels.com/photos/7031873/pexels-photo-7031873.jpeg",
+      "https://images.pexels.com/photos/7018834/pexels-photo-7018834.jpeg",
+      "https://images.pexels.com/photos/7018835/pexels-photo-7018835.jpeg",
+      "https://images.pexels.com/photos/5158497/pexels-photo-5158497.jpeg",
+      "https://images.pexels.com/photos/5137981/pexels-photo-5137981.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [{ "Twin": 800 }],
+    "inStock": 15
+  },
+  {
+    "name": "Elegant Canopy Bed",
+    "availability": "In Stock",
+    "brand": "RoyalSleep",
+    "category": "Bed Room",
+    "SKU": "BR005",
+    "description": "An elegant canopy bed with a luxurious design.",
+    "detailDescription": [
+      "Four-poster design",
+      "High-quality wood",
+      "Elegant canopy",
+      "Easy to assemble",
+      "Available in king and queen sizes"
+    ],
+    "price": 1500,
+    "discount": 12,
+    "reviews": 40,
+    "photosArray": [
+      "https://images.pexels.com/photos/12715452/pexels-photo-12715452.jpeg",
+      "https://images.pexels.com/photos/4577673/pexels-photo-4577673.jpeg",
+      "https://images.pexels.com/photos/4916513/pexels-photo-4916513.jpeg",
+      "https://images.pexels.com/photos/6040347/pexels-photo-6040347.jpeg",
+      "https://images.pexels.com/photos/4916513/pexels-photo-4916513.jpeg",
+      "https://images.pexels.com/photos/14025910/pexels-photo-14025910.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": true,
+    "size": [{ "Queen": 1400 }, { "King": 1500 }],
+    "inStock": 8
+  },
+  {
+    "name": "Minimalist Platform Bed",
+    "availability": "In Stock",
+    "brand": "UrbanLiving",
+    "category": "Bed Room",
+    "SKU": "BR006",
+    "description": "A minimalist platform bed with a sleek design.",
+    "detailDescription": [
+      "Low profile",
+      "Solid wood frame",
+      "Easy to assemble",
+      "Available in multiple finishes",
+      "Modern design"
+    ],
+    "price": 700,
+    "discount": 15,
+    "reviews": 22,
+    "photosArray": [
+      "https://images.pexels.com/photos/4713251/pexels-photo-4713251.jpeg",
+      "https://images.pexels.com/photos/14022460/pexels-photo-14022460.jpeg",
+      "https://images.pexels.com/photos/20385806/pexels-photo-20385806/free-photo-of-sunlit-on-mattress-in-bedroom.jpeg",
+      "https://images.pexels.com/photos/13128711/pexels-photo-13128711.jpeg",
+      "https://images.pexels.com/photos/7614411/pexels-photo-7614411.jpeg",
+      "https://images.pexels.com/photos/8082217/pexels-photo-8082217.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [{ "Full": 700 }, { "Queen": 800 }],
+    "inStock": 12
+  },
+  {
+    "name": "Vintage King Bed",
+    "availability": "In Stock",
+    "brand": "RetroHome",
+    "category": "Bed Room",
+    "SKU": "BR007",
+    "description": "A vintage king size bed with a classic design.",
+    "detailDescription": [
+      "Antique finish",
+      "Solid wood construction",
+      "Durable design",
+      "Easy to assemble",
+      "Available in king and queen sizes"
+    ],
+    "price": 1350,
+    "discount": 8,
+    "reviews": 28,
+    "photosArray": [
+      "https://images.pexels.com/photos/6207819/pexels-photo-6207819.jpeg",
+      "https://images.pexels.com/photos/7195561/pexels-photo-7195561.jpeg",
+      "https://images.pexels.com/photos/6394533/pexels-photo-6394533.jpeg",
+      "https://images.pexels.com/photos/5824491/pexels-photo-5824491.jpeg",
+      "https://images.pexels.com/photos/6969790/pexels-photo-6969790.jpeg",
+      "https://images.pexels.com/photos/6585602/pexels-photo-6585602.jpeg"
+    ],
+    "isTrending": false,
+    "NewProduct": true,
+    "size": [{ "Queen": 1200 }, { "King": 1350 }],
+    "inStock": 10
+  },
+  {
+    "name": "Classic Daybed",
+    "availability": "In Stock",
+    "brand": "HomeComfort",
+    "category": "Bed Room",
+    "SKU": "BR008",
+    "description": "A classic daybed perfect for lounging or sleeping.",
+    "detailDescription": [
+      "Multifunctional design",
+      "High-quality materials",
+      "Sturdy frame",
+      "Easy to assemble",
+      "Available in multiple finishes"
+    ],
+    "price": 600,
+    "discount": 10,
+    "reviews": 20,
+    "photosArray": [
+      "https://example.com/photos/bed22.jpg",
+      "https://example.com/photos/bed23.jpg",
+      "https://example.com/photos/bed24.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": true,
+    "size": [{ "Twin": 600 }],
+    "inStock": 15
+  },
+  {
+    "name": "Elegant Sleigh Bed",
+    "availability": "In Stock",
+    "brand": "LuxuryHome",
+    "category": "Bed Room",
+    "SKU": "BR009",
+    "description": "An elegant sleigh bed with a luxurious design.",
+    "detailDescription": [
+      "Curved headboard and footboard",
+      "Solid wood frame",
+      "Durable construction",
+      "Easy to assemble",
+      "Available in king and queen sizes"
+    ],
+    "price": 1400,
+    "discount": 10,
+    "reviews": 25,
+    "photosArray": [
+      "https://example.com/photos/bed25.jpg",
+      "https://example.com/photos/bed26.jpg",
+      "https://example.com/photos/bed27.jpg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [{ "Queen": 1300 }, { "King": 1400 }],
+    "inStock": 12
+  },
+  {
+    "name": "Contemporary Murphy Bed",
+    "availability": "In Stock",
+    "brand": "SpaceSaver",
+    "category": "Bed Room",
+    "SKU": "BR010",
+    "description": "A contemporary Murphy bed perfect for small spaces.",
+    "detailDescription": [
+      "Space-saving design",
+      "High-quality materials",
+      "Sturdy frame",
+      "Easy to assemble",
+      "Available in multiple finishes"
+    ],
+    "price": 900,
+    "discount": 12,
+    "reviews": 30,
+    "photosArray": [
+      "https://example.com/photos/bed28.jpg",
+      "https://example.com/photos/bed29.jpg",
+      "https://example.com/photos/bed30.jpg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [{ "Full": 900 }, { "Queen": 1000 }],
+    "inStock": 10
+  }
+]
