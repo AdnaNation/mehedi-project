@@ -24,8 +24,8 @@
       "https://images.pexels.com/photos/7148681/pexels-photo-7148681.jpeg",
       "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg"
     ],
-    "isTrending": true,
-    "NewProduct": true,
+    "isTrending": false,
+    "NewProduct": false,
     "size": [
       {
         "XS": 700
@@ -116,7 +116,7 @@
       "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
       "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
     "size": [
       {
@@ -163,7 +163,7 @@
       "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg"
     ],
     "isTrending": false,
-    "NewProduct": true,
+    "NewProduct": false,
     "size": [
       {
         "XS": 700
@@ -208,7 +208,7 @@
       "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
       "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
     "size": [
       {
@@ -254,7 +254,7 @@
       "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg",
       "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
     "size": [
       {
@@ -301,7 +301,7 @@
       "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg"
     ],
     "isTrending": false,
-    "NewProduct": true,
+    "NewProduct": false,
     "size": [
       {
         "XS": 700
@@ -346,7 +346,7 @@
       "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg",
       "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
     "size": [
       {
@@ -393,7 +393,7 @@
       "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg"
     ],
     "isTrending": false,
-    "NewProduct": true,
+    "NewProduct": false,
     "size": [
       {
         "XS": 700
@@ -438,7 +438,7 @@
       "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg",
       "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg"
     ],
-    "isTrending": true,
+    "isTrending": false,
     "NewProduct": false,
     "size": [
       {
