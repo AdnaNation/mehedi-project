@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Italian L shape sofa",
+    "availability": "In Stock",
+    "brand": "Hatil",
+    "category": "Sofa",
+    "SKU": "SOF001",
+    "description": "This Italian L shape sofa is made with premium materials and offers exceptional comfort. It is perfect for your living room.",
+    "detailDescription": [
+      "Premium leather finish",
+      "Modular design for easy rearrangement",
+      "High-density foam cushions",
+      "Sturdy wooden frame",
+      "Elegant and modern style"
+    ],
+    "price": 1200,
+    "discount": 1350,
+    "reviews": 15,
+    "photosArray": [
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa2.jpg",
+      "https://example.com/photos/sofa3.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 10
+  },
+  {
+    "name": "Modern Recliner Sofa",
+    "availability": "In Stock",
+    "brand": "ComfortHome",
+    "category": "Sofa",
+    "SKU": "SOF002",
+    "description": "A modern recliner sofa offering superior comfort and relaxation.",
+    "detailDescription": [
+      "Reclining feature with adjustable settings",
+      "High-density foam cushions",
+      "Durable fabric upholstery",
+      "Solid wood frame",
+      "Contemporary design"
+    ],
+    "price": 1500,
+    "discount": 1600,
+    "reviews": 20,
+    "photosArray": [
+      "https://example.com/photos/sofa4.jpg",
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa6.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 8
+  },
+  {
+    "name": "Luxury Sectional Sofa",
+    "availability": "In Stock",
+    "brand": "Elegance",
+    "category": "Sofa",
+    "SKU": "SOF003",
+    "description": "A luxury sectional sofa with ample seating and modern design.",
+    "detailDescription": [
+      "Premium velvet upholstery",
+      "Modular design for customization",
+      "High-density foam cushions",
+      "Sturdy metal frame",
+      "Stylish and elegant"
+    ],
+    "price": 2000,
+    "discount": 2300,
+    "reviews": 18,
+    "photosArray": [
+      "https://example.com/photos/sofa7.jpg",
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa9.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 5
+  },
+  {
+    "name": "Compact Sleeper Sofa",
+    "availability": "In Stock",
+    "brand": "UrbanLiving",
+    "category": "Sofa",
+    "SKU": "SOF004",
+    "description": "A compact sleeper sofa perfect for small spaces.",
+    "detailDescription": [
+      "Convertible design for sleeping",
+      "Durable fabric upholstery",
+      "High-density foam cushions",
+      "Solid wood frame",
+      "Space-saving design"
+    ],
+    "price": 800,
+    "discount": 900,
+    "reviews": 25,
+    "photosArray": [
+      "https://example.com/photos/sofa10.jpg",
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa11.jpg",
+      "https://example.com/photos/sofa12.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 12
+  },
+  {
+    "name": "Vintage Leather Sofa",
+    "availability": "In Stock",
+    "brand": "RetroStyle",
+    "category": "Sofa",
+    "SKU": "SOF005",
+    "description": "A vintage leather sofa with a timeless design.",
+    "detailDescription": [
+      "Genuine leather upholstery",
+      "Classic button-tufted design",
+      "High-density foam cushions",
+      "Solid wood frame",
+      "Vintage charm"
+    ],
+    "price": 1800,
+    "discount": 2200,
+    "reviews": 30,
+    "photosArray": [
+      "https://example.com/photos/sofa13.jpg",
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa14.jpg",
+      "https://example.com/photos/sofa15.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 7
+  },
+  {
+    "name": "Fabric Sectional Sofa",
+    "availability": "In Stock",
+    "brand": "ComfortHome",
+    "category": "Sofa",
+    "SKU": "SOF006",
+    "description": "A spacious fabric sectional sofa with modern design.",
+    "detailDescription": [
+      "Durable fabric upholstery",
+      "Modular design for flexibility",
+      "High-density foam cushions",
+      "Sturdy wooden frame",
+      "Stylish and comfortable"
+    ],
+    "price": 1600,
+    "discount": 2000,
+    "reviews": 22,
+    "photosArray": [
+      "https://example.com/photos/sofa16.jpg",
+      "https://example.com/photos/sofa17.jpg",
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa18.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 9
+  },
+  {
+    "name": "Classic Chesterfield Sofa",
+    "availability": "In Stock",
+    "brand": "Elegance",
+    "category": "Sofa",
+    "SKU": "SOF007",
+    "description": "A classic Chesterfield sofa with luxurious design.",
+    "detailDescription": [
+      "Genuine leather upholstery",
+      "Button-tufted design",
+      "High-density foam cushions",
+      "Solid wood frame",
+      "Elegant and timeless"
+    ],
+    "price": 2200,
+    "discount": 2450,
+    "reviews": 12,
+    "photosArray": [
+      "https://example.com/photos/sofa19.jpg",
+      "https://example.com/photos/sofa20.jpg",
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa21.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 4
+  },
+  {
+    "name": "Contemporary Sofa Bed",
+    "availability": "In Stock",
+    "brand": "UrbanLiving",
+    "category": "Sofa",
+    "SKU": "SOF008",
+    "description": "A contemporary sofa bed with a sleek design.",
+    "detailDescription": [
+      "Convertible design for sleeping",
+      "Durable fabric upholstery",
+      "High-density foam cushions",
+      "Metal frame",
+      "Modern and functional"
+    ],
+    "price": 900,
+    "discount": 1000,
+    "reviews": 28,
+    "photosArray": [
+      "https://example.com/photos/sofa22.jpg",
+      "https://example.com/photos/sofa23.jpg",
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa24.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 10
+  },
+  {
+    "name": "Mid-Century Modern Sofa",
+    "availability": "In Stock",
+    "brand": "RetroStyle",
+    "category": "Sofa",
+    "SKU": "SOF009",
+    "description": "A mid-century modern sofa with a chic design.",
+    "detailDescription": [
+      "Durable fabric upholstery",
+      "High-density foam cushions",
+      "Solid wood frame",
+      "Retro-inspired design",
+      "Comfortable seating"
+    ],
+    "price": 1400,
+    "discount": 1550,
+    "reviews": 18,
+    "photosArray": [
+      "https://example.com/photos/sofa25.jpg",
+      "https://example.com/photos/sofa26.jpg",
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa27.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 8
+  },
+  {
+    "name": "Convertible Futon Sofa",
+    "availability": "In Stock",
+    "brand": "UrbanLiving",
+    "category": "Sofa",
+    "SKU": "SOF010",
+    "description": "A versatile convertible futon sofa for small spaces.",
+    "detailDescription": [
+      "Convertible design for sleeping",
+      "Durable fabric upholstery",
+      "High-density foam cushions",
+      "Metal frame",
+      "Space-saving and functional"
+    ],
+    "price": 700,
+    "discount": 800,
+    "reviews": 20,
+    "photosArray": [
+      "https://example.com/photos/sofa28.jpg",
+      "https://example.com/photos/sofa29.jpg",
+      "https://images.pexels.com/photos/6980714/pexels-photo-6980714.jpeg",
+      "https://example.com/photos/sofa30.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 15
+  }
+]
