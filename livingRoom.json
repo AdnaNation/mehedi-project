@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Modern Glass Coffee Table",
+    "availability": "In Stock",
+    "brand": "Elegance",
+    "category": "Living Room",
+    "SKU": "LR001",
+    "description": "A sleek modern glass coffee table that adds elegance to your living room.",
+    "detailDescription": [
+      "Tempered glass top",
+      "Sturdy metal frame",
+      "Easy to clean",
+      "Contemporary design",
+      "Space-saving design"
+    ],
+    "price": 300,
+    "discount": 5,
+    "reviews": 25,
+    "photosArray": [
+      "https://example.com/photos/livingroom1.jpg",
+      "https://example.com/photos/livingroom2.jpg",
+      "https://example.com/photos/livingroom3.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 20
+  },
+  {
+    "name": "Luxury TV Stand",
+    "availability": "In Stock",
+    "brand": "Hatil",
+    "category": "Living Room",
+    "SKU": "LR002",
+    "description": "A luxurious TV stand with ample storage and a modern design.",
+    "detailDescription": [
+      "High-quality wood construction",
+      "Multiple storage compartments",
+      "Cable management system",
+      "Elegant finish",
+      "Durable and sturdy"
+    ],
+    "price": 500,
+    "discount": 10,
+    "reviews": 30,
+    "photosArray": [
+      "https://example.com/photos/livingroom4.jpg",
+      "https://example.com/photos/livingroom5.jpg",
+      "https://example.com/photos/livingroom6.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 15
+  },
+  {
+    "name": "Contemporary Bookshelf",
+    "availability": "In Stock",
+    "brand": "UrbanLiving",
+    "category": "Living Room",
+    "SKU": "LR003",
+    "description": "A contemporary bookshelf with a minimalist design.",
+    "detailDescription": [
+      "Durable wood construction",
+      "Open shelving",
+      "Easy to assemble",
+      "Space-saving design",
+      "Modern style"
+    ],
+    "price": 200,
+    "discount": 5,
+    "reviews": 18,
+    "photosArray": [
+      "https://example.com/photos/livingroom7.jpg",
+      "https://example.com/photos/livingroom8.jpg",
+      "https://example.com/photos/livingroom9.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 25
+  },
+  {
+    "name": "Elegant Floor Lamp",
+    "availability": "In Stock",
+    "brand": "LightHouse",
+    "category": "Living Room",
+    "SKU": "LR004",
+    "description": "An elegant floor lamp that brightens up your living room.",
+    "detailDescription": [
+      "Adjustable height",
+      "Energy-efficient LED",
+      "Stylish design",
+      "Sturdy base",
+      "Easy to assemble"
+    ],
+    "price": 150,
+    "discount": 10,
+    "reviews": 20,
+    "photosArray": [
+      "https://example.com/photos/livingroom10.jpg",
+      "https://example.com/photos/livingroom11.jpg",
+      "https://example.com/photos/livingroom12.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 30
+  },
+  {
+    "name": "Comfortable Lounge Chair",
+    "availability": "In Stock",
+    "brand": "ComfortHome",
+    "category": "Living Room",
+    "SKU": "LR005",
+    "description": "A comfortable lounge chair perfect for relaxing in your living room.",
+    "detailDescription": [
+      "Plush cushioning",
+      "Durable fabric upholstery",
+      "Sturdy wooden legs",
+      "Ergonomic design",
+      "Modern style"
+    ],
+    "price": 400,
+    "discount": 8,
+    "reviews": 28,
+    "photosArray": [
+      "https://example.com/photos/livingroom13.jpg",
+      "https://example.com/photos/livingroom14.jpg",
+      "https://example.com/photos/livingroom15.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 12
+  },
+  {
+    "name": "Stylish Side Table",
+    "availability": "In Stock",
+    "brand": "Elegance",
+    "category": "Living Room",
+    "SKU": "LR006",
+    "description": "A stylish side table that complements any living room décor.",
+    "detailDescription": [
+      "High-quality wood finish",
+      "Compact design",
+      "Durable and sturdy",
+      "Easy to assemble",
+      "Modern and elegant"
+    ],
+    "price": 100,
+    "discount": 5,
+    "reviews": 35,
+    "photosArray": [
+      "https://example.com/photos/livingroom16.jpg",
+      "https://example.com/photos/livingroom17.jpg",
+      "https://example.com/photos/livingroom18.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 40
+  },
+  {
+    "name": "Elegant Wall Mirror",
+    "availability": "In Stock",
+    "brand": "UrbanLiving",
+    "category": "Living Room",
+    "SKU": "LR007",
+    "description": "An elegant wall mirror that adds a touch of sophistication to your living room.",
+    "detailDescription": [
+      "High-quality glass",
+      "Elegant frame",
+      "Easy to mount",
+      "Stylish and modern",
+      "Enhances room décor"
+    ],
+    "price": 250,
+    "discount": 8,
+    "reviews": 22,
+    "photosArray": [
+      "https://example.com/photos/livingroom19.jpg",
+      "https://example.com/photos/livingroom20.jpg",
+      "https://example.com/photos/livingroom21.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 18
+  },
+  {
+    "name": "Luxurious Area Rug",
+    "availability": "In Stock",
+    "brand": "ComfortHome",
+    "category": "Living Room",
+    "SKU": "LR008",
+    "description": "A luxurious area rug that adds warmth and style to your living room.",
+    "detailDescription": [
+      "Soft and plush",
+      "Durable fibers",
+      "Easy to clean",
+      "Stylish pattern",
+      "Non-slip backing"
+    ],
+    "price": 350,
+    "discount": 10,
+    "reviews": 25,
+    "photosArray": [
+      "https://example.com/photos/livingroom22.jpg",
+      "https://example.com/photos/livingroom23.jpg",
+      "https://example.com/photos/livingroom24.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 22
+  },
+  {
+    "name": "Modern TV Unit",
+    "availability": "In Stock",
+    "brand": "UrbanLiving",
+    "category": "Living Room",
+    "SKU": "LR009",
+    "description": "A modern TV unit with ample storage and a sleek design.",
+    "detailDescription": [
+      "High-quality wood construction",
+      "Multiple storage compartments",
+      "Cable management system",
+      "Stylish and modern",
+      "Durable and sturdy"
+    ],
+    "price": 600,
+    "discount": 12,
+    "reviews": 20,
+    "photosArray": [
+      "https://example.com/photos/livingroom25.jpg",
+      "https://example.com/photos/livingroom26.jpg",
+      "https://example.com/photos/livingroom27.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 10
+  },
+  {
+    "name": "Elegant Display Cabinet",
+    "availability": "In Stock",
+    "brand": "Hatil",
+    "category": "Living Room",
+    "SKU": "LR010",
+    "description": "An elegant display cabinet to showcase your collectibles.",
+    "detailDescription": [
+      "Glass doors",
+      "Multiple shelves",
+      "Durable wood construction",
+      "Elegant design",
+      "Easy to assemble"
+    ],
+    "price": 450,
+    "discount": 10,
+    "reviews": 18,
+    "photosArray": [
+      "https://example.com/photos/livingroom28.jpg",
+      "https://example.com/photos/livingroom29.jpg",
+      "https://example.com/photos/livingroom30.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 15
+  }
+]

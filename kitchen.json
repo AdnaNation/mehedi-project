@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Stainless Steel Cookware Set",
+    "availability": "In Stock",
+    "brand": "KitchenPro",
+    "category": "Kitchen",
+    "SKU": "K001",
+    "description": "A premium stainless steel cookware set for your kitchen needs.",
+    "detailDescription": [
+      "Includes pots, pans, and utensils",
+      "Durable stainless steel construction",
+      "Non-stick coating",
+      "Even heat distribution",
+      "Easy to clean"
+    ],
+    "price": 200,
+    "discount": 10,
+    "reviews": 50,
+    "photosArray": [
+      "https://example.com/photos/kitchen1.jpg",
+      "https://example.com/photos/kitchen2.jpg",
+      "https://example.com/photos/kitchen3.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 20
+  },
+  {
+    "name": "Digital Kitchen Scale",
+    "availability": "In Stock",
+    "brand": "WeighMaster",
+    "category": "Kitchen",
+    "SKU": "K002",
+    "description": "A digital kitchen scale for precise measurement in your cooking.",
+    "detailDescription": [
+      "High-precision sensors",
+      "LCD display",
+      "Multiple unit conversion",
+      "Slim and compact design",
+      "Easy to clean"
+    ],
+    "price": 30,
+    "discount": 5,
+    "reviews": 35,
+    "photosArray": [
+      "https://example.com/photos/kitchen4.jpg",
+      "https://example.com/photos/kitchen5.jpg",
+      "https://example.com/photos/kitchen6.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 40
+  },
+  {
+    "name": "Non-Stick Cooking Utensil Set",
+    "availability": "In Stock",
+    "brand": "KitchenPro",
+    "category": "Kitchen",
+    "SKU": "K003",
+    "description": "A set of non-stick cooking utensils for hassle-free cooking.",
+    "detailDescription": [
+      "High-quality silicone material",
+      "Heat-resistant and non-toxic",
+      "Ergonomic handles",
+      "Easy to clean",
+      "Dishwasher safe"
+    ],
+    "price": 50,
+    "discount": 8,
+    "reviews": 40,
+    "photosArray": [
+      "https://example.com/photos/kitchen7.jpg",
+      "https://example.com/photos/kitchen8.jpg",
+      "https://example.com/photos/kitchen9.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 25
+  },
+  {
+    "name": "Electric Kettle",
+    "availability": "In Stock",
+    "brand": "HotBrew",
+    "category": "Kitchen",
+    "SKU": "K004",
+    "description": "An electric kettle for quick and efficient boiling.",
+    "detailDescription": [
+      "Stainless steel body",
+      "Fast boiling technology",
+      "Auto shut-off feature",
+      "360-degree swivel base",
+      "Easy to pour and clean"
+    ],
+    "price": 40,
+    "discount": 5,
+    "reviews": 45,
+    "photosArray": [
+      "https://example.com/photos/kitchen10.jpg",
+      "https://example.com/photos/kitchen11.jpg",
+      "https://example.com/photos/kitchen12.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 30
+  },
+  {
+    "name": "Premium Knife Set",
+    "availability": "In Stock",
+    "brand": "CutMaster",
+    "category": "Kitchen",
+    "SKU": "K005",
+    "description": "A premium knife set for all your cutting and slicing needs.",
+    "detailDescription": [
+      "High-quality stainless steel blades",
+      "Ergonomic handles",
+      "Includes various types of knives",
+      "Sharp and durable",
+      "Easy to clean"
+    ],
+    "price": 100,
+    "discount": 8,
+    "reviews": 55,
+    "photosArray": [
+      "https://example.com/photos/kitchen13.jpg",
+      "https://example.com/photos/kitchen14.jpg",
+      "https://example.com/photos/kitchen15.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 15
+  },
+  {
+    "name": "Silicone Baking Mat",
+    "availability": "In Stock",
+    "brand": "BakeMaster",
+    "category": "Kitchen",
+    "SKU": "K006",
+    "description": "A silicone baking mat for easy and non-stick baking.",
+    "detailDescription": [
+      "Food-grade silicone material",
+      "Non-stick surface",
+      "Heat-resistant",
+      "Durable and reusable",
+      "Easy to clean"
+    ],
+    "price": 20,
+    "discount": 5,
+    "reviews": 30,
+    "photosArray": [
+      "https://example.com/photos/kitchen16.jpg",
+      "https://example.com/photos/kitchen17.jpg",
+      "https://example.com/photos/kitchen18.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 50
+  },
+  {
+    "name": "Coffee Maker Machine",
+    "availability": "In Stock",
+    "brand": "BrewMaster",
+    "category": "Kitchen",
+    "SKU": "K007",
+    "description": "A coffee maker machine for brewing delicious coffee at home.",
+    "detailDescription": [
+      "Programmable settings",
+      "Brew strength control",
+      "Built-in grinder",
+      "Easy to clean",
+      "Compact and stylish design"
+    ],
+    "price": 150,
+    "discount": 7,
+    "reviews": 38,
+    "photosArray": [
+      "https://example.com/photos/kitchen19.jpg",
+      "https://example.com/photos/kitchen20.jpg",
+      "https://example.com/photos/kitchen21.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 20
+  },
+  {
+    "name": "Air Fryer",
+    "availability": "In Stock",
+    "brand": "FryMaster",
+    "category": "Kitchen",
+    "SKU": "K008",
+    "description": "An air fryer for healthier frying with less oil.",
+    "detailDescription": [
+      "Rapid air circulation technology",
+      "Adjustable temperature control",
+      "Digital touchscreen interface",
+      "Easy to clean",
+      "Compact and space-saving"
+    ],
+    "price": 120,
+    "discount": 6,
+    "reviews": 42,
+    "photosArray": [
+      "https://example.com/photos/kitchen22.jpg",
+      "https://example.com/photos/kitchen23.jpg",
+      "https://example.com/photos/kitchen24.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 25
+  },
+  {
+    "name": "Food Processor",
+    "availability": "In Stock",
+    "brand": "ChopMaster",
+    "category": "Kitchen",
+    "SKU": "K009",
+    "description": "A food processor for chopping, slicing, and shredding tasks.",
+    "detailDescription": [
+      "Powerful motor",
+      "Multiple attachments",
+      "Large capacity bowl",
+      "Easy to assemble and clean",
+      "Compact design"
+    ],
+    "price": 80,
+    "discount": 5,
+    "reviews": 48,
+    "photosArray": [
+      "https://example.com/photos/kitchen25.jpg",
+      "https://example.com/photos/kitchen26.jpg",
+      "https://example.com/photos/kitchen27.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 30
+  },
+  {
+    "name": "Electric Blender",
+    "availability": "In Stock",
+    "brand": "BlendMaster",
+    "category": "Kitchen",
+    "SKU": "K010",
+    "description": "An electric blender for making smoothies, shakes, and sauces.",
+    "detailDescription": [
+      "High-speed motor",
+      "Durable stainless steel blades",
+      "Multiple speed settings",
+      "Easy to clean",
+      "Compact design"
+    ],
+    "price": 60,
+    "discount": 4,
+    "reviews": 55,
+    "photosArray": [
+      "https://example.com/photos/kitchen28.jpg",
+      "https://example.com/photos/kitchen29.jpg",
+      "https://example.com/photos/kitchen30.jpg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 35
+  }
+]
