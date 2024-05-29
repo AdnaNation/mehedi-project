@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Outdoor Patio Set",
+    "availability": "In Stock",
+    "brand": "GardenComfort",
+    "category": "Outdoor",
+    "SKU": "OD001",
+    "description": "A complete patio set perfect for your outdoor space.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Includes table and chairs",
+      "Easy to assemble",
+      "UV protection",
+      "Stylish design"
+    ],
+    "price": 1200,
+    "discount": 1300,
+    "reviews": 25,
+    "photosArray": [
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg",
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg",
+      "https://images.pexels.com/photos/7148681/pexels-photo-7148681.jpeg",
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": true,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 15
+  },
+  {
+    "name": "Outdoor Lounge Chair",
+    "availability": "In Stock",
+    "brand": "RelaxOutdoor",
+    "category": "Outdoor",
+    "SKU": "OD002",
+    "description": "A comfortable outdoor lounge chair for relaxing.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Adjustable backrest",
+      "Cushioned seat",
+      "UV protection",
+      "Stylish design"
+    ],
+    "price": 350,
+    "discount": 500,
+    "reviews": 20,
+    "photosArray": [
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/7148681/pexels-photo-7148681.jpeg",
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg",
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg",
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg"
+    ],
+    "isTrending": false,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 25
+  },
+  {
+    "name": "Outdoor Dining Set",
+    "availability": "In Stock",
+    "brand": "Alfresco",
+    "category": "Outdoor",
+    "SKU": "OD003",
+    "description": "An elegant outdoor dining set for your patio.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Includes table and chairs",
+      "Easy to assemble",
+      "UV protection",
+      "Stylish design"
+    ],
+    "price": 1500,
+    "discount": 1600,
+    "reviews": 30,
+    "photosArray": [
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg",
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg",
+      "https://images.pexels.com/photos/7148681/pexels-photo-7148681.jpeg",
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 10
+  },
+  {
+    "name": "Garden Bench",
+    "availability": "In Stock",
+    "brand": "NatureRelax",
+    "category": "Outdoor",
+    "SKU": "OD004",
+    "description": "A stylish garden bench for your outdoor space.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Durable construction",
+      "Easy to assemble",
+      "UV protection",
+      "Stylish design"
+    ],
+    "price": 300,
+    "discount": 500,
+    "reviews": 18,
+    "photosArray": [
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg",
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/7148681/pexels-photo-7148681.jpeg",
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg",
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg"
+    ],
+    "isTrending": false,
+    "NewProduct": true,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 20
+  },
+  {
+    "name": "Outdoor Hammock",
+    "availability": "In Stock",
+    "brand": "RelaxOutdoor",
+    "category": "Outdoor",
+    "SKU": "OD005",
+    "description": "A comfortable outdoor hammock for relaxing.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Easy to set up",
+      "Comfortable design",
+      "UV protection",
+      "Stylish design"
+    ],
+    "price": 200,
+    "discount": 250,
+    "reviews": 22,
+    "photosArray": [
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg",
+      "https://images.pexels.com/photos/7148681/pexels-photo-7148681.jpeg",
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg",
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 30
+  },
+  {
+    "name": "Outdoor Fire Pit",
+    "availability": "In Stock",
+    "brand": "FireComfort",
+    "category": "Outdoor",
+    "SKU": "OD006",
+    "description": "An elegant outdoor fire pit for your patio.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Easy to assemble",
+      "Stylish design",
+      "UV protection",
+      "Safe and durable"
+    ],
+    "price": 400,
+    "discount": 500,
+    "reviews": 28,
+    "photosArray": [
+      "https://images.pexels.com/photos/7148681/pexels-photo-7148681.jpeg",
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg",
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg",
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 15
+  },
+  {
+    "name": "Outdoor Swing Chair",
+    "availability": "In Stock",
+    "brand": "GardenComfort",
+    "category": "Outdoor",
+    "SKU": "OD007",
+    "description": "A comfortable outdoor swing chair for relaxing.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Cushioned seat",
+      "Easy to assemble",
+      "UV protection",
+      "Stylish design"
+    ],
+    "price": 450,
+    "discount": 610,
+    "reviews": 24,
+    "photosArray": [
+      "https://images.pexels.com/photos/3355734/pexels-photo-3355734.jpeg",
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg",
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg",
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg"
+    ],
+    "isTrending": false,
+    "NewProduct": true,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 20
+  },
+  {
+    "name": "Outdoor Bistro Set",
+    "availability": "In Stock",
+    "brand": "Alfresco",
+    "category": "Outdoor",
+    "SKU": "OD008",
+    "description": "A charming bistro set for your outdoor space.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Includes table and chairs",
+      "Easy to assemble",
+      "UV protection",
+      "Stylish design"
+    ],
+    "price": 600,
+    "discount": 850,
+    "reviews": 26,
+    "photosArray": [
+      "https://images.pexels.com/photos/8055632/pexels-photo-8055632.jpeg",
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg",
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg",
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 15
+  },
+  {
+    "name": "Outdoor Chaise Lounge",
+    "availability": "In Stock",
+    "brand": "RelaxOutdoor",
+    "category": "Outdoor",
+    "SKU": "OD009",
+    "description": "A comfortable outdoor chaise lounge for relaxing.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Adjustable backrest",
+      "Cushioned seat",
+      "UV protection",
+      "Stylish design"
+    ],
+    "price": 350,
+    "discount": 500,
+    "reviews": 22,
+    "photosArray": [
+      "https://images.pexels.com/photos/14012238/pexels-photo-14012238.jpeg",
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg",
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg",
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg"
+    ],
+    "isTrending": false,
+    "NewProduct": true,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 25
+  },
+  {
+    "name": "Outdoor Sofa Set",
+    "availability": "In Stock",
+    "brand": "GardenComfort",
+    "category": "Outdoor",
+    "SKU": "OD010",
+    "description": "A complete outdoor sofa set for your patio.",
+    "detailDescription": [
+      "Weather-resistant materials",
+      "Includes sofa and coffee table",
+      "Easy to assemble",
+      "UV protection",
+      "Stylish design"
+    ],
+    "price": 1300,
+    "discount": 1460,
+    "reviews": 20,
+    "photosArray": [
+      "https://images.pexels.com/photos/4497545/pexels-photo-4497545.jpeg",
+      "https://images.pexels.com/photos/17734593/pexels-photo-17734593/free-photo-of-hammock-between-trees-in-forest.jpeg",
+      "https://images.pexels.com/photos/7207090/pexels-photo-7207090.jpeg",
+      "https://images.pexels.com/photos/18786201/pexels-photo-18786201/free-photo-of-deckchairs-by-the-swimming-pool.jpeg",
+      "https://images.pexels.com/photos/595386/pexels-photo-595386.jpeg",
+      "https://images.pexels.com/photos/1721930/pexels-photo-1721930.jpeg"
+    ],
+    "isTrending": true,
+    "NewProduct": false,
+    "size": [
+      {
+        "XS": 700
+      },
+      {
+        "S": 720
+      },
+      {
+        "M": 750
+      },
+      {
+        "L": 780
+      },
+      {
+        "XL": 880
+      }
+    ],
+    "inStock": 12
+  }
+]
