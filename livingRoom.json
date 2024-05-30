@@ -14,12 +14,15 @@
       "Space-saving design"
     ],
     "price": 300,
-    "discount": 5,
+    "discount": 500,
     "reviews": 25,
     "photosArray": [
-      "https://example.com/photos/livingroom1.jpg",
-      "https://example.com/photos/livingroom2.jpg",
-      "https://example.com/photos/livingroom3.jpg"
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg",
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/6585622/pexels-photo-6585622.jpeg",
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg",
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -57,12 +60,15 @@
       "Durable and sturdy"
     ],
     "price": 500,
-    "discount": 10,
+    "discount": 550,
     "reviews": 30,
     "photosArray": [
-      "https://example.com/photos/livingroom4.jpg",
-      "https://example.com/photos/livingroom5.jpg",
-      "https://example.com/photos/livingroom6.jpg"
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg",
+      "https://images.pexels.com/photos/6585622/pexels-photo-6585622.jpeg",
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg",
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg",
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg.jpg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -100,12 +106,15 @@
       "Modern style"
     ],
     "price": 200,
-    "discount": 5,
+    "discount": 500,
     "reviews": 18,
     "photosArray": [
-      "https://example.com/photos/livingroom7.jpg",
-      "https://example.com/photos/livingroom8.jpg",
-      "https://example.com/photos/livingroom9.jpg"
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg",
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg",
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg",
+      "https://images.pexels.com/photos/6585622/pexels-photo-6585622.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -143,12 +152,15 @@
       "Easy to assemble"
     ],
     "price": 150,
-    "discount": 10,
+    "discount": 190,
     "reviews": 20,
     "photosArray": [
-      "https://example.com/photos/livingroom10.jpg",
-      "https://example.com/photos/livingroom11.jpg",
-      "https://example.com/photos/livingroom12.jpg"
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg",
+      "https://images.pexels.com/photos/6585622/pexels-photo-6585622.jpeg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg",
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg",
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -186,12 +198,15 @@
       "Modern style"
     ],
     "price": 400,
-    "discount": 8,
+    "discount": 800,
     "reviews": 28,
     "photosArray": [
-      "https://example.com/photos/livingroom13.jpg",
-      "https://example.com/photos/livingroom14.jpg",
-      "https://example.com/photos/livingroom15.jpg"
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg",
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg",
+      "https://images.pexels.com/photos/6585622/pexels-photo-6585622.jpeg",
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg.jpg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -229,12 +244,15 @@
       "Modern and elegant"
     ],
     "price": 100,
-    "discount": 5,
+    "discount": 250,
     "reviews": 35,
     "photosArray": [
-      "https://example.com/photos/livingroom16.jpg",
-      "https://example.com/photos/livingroom17.jpg",
-      "https://example.com/photos/livingroom18.jpg"
+      "https://images.pexels.com/photos/4170019/pexels-photo-4170019.jpeg",
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg",
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg.jpg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg",
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg.jpg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -272,12 +290,15 @@
       "Enhances room décor"
     ],
     "price": 250,
-    "discount": 8,
+    "discount": 300,
     "reviews": 22,
     "photosArray": [
-      "https://example.com/photos/livingroom19.jpg",
-      "https://example.com/photos/livingroom20.jpg",
-      "https://example.com/photos/livingroom21.jpg"
+      "https://images.pexels.com/photos/7535043/pexels-photo-7535043.jpeg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg.jpg",
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg",
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg",
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg.jpg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -315,12 +336,15 @@
       "Non-slip backing"
     ],
     "price": 350,
-    "discount": 10,
+    "discount": 460,
     "reviews": 25,
     "photosArray": [
-      "https://example.com/photos/livingroom22.jpg",
-      "https://example.com/photos/livingroom23.jpg",
-      "https://example.com/photos/livingroom24.jpg"
+      "https://images.pexels.com/photos/8583748/pexels-photo-8583748.jpeg",
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg.jpg",
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg",
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg.jpg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -358,12 +382,15 @@
       "Durable and sturdy"
     ],
     "price": 600,
-    "discount": 12,
+    "discount": 730,
     "reviews": 20,
     "photosArray": [
-      "https://example.com/photos/livingroom25.jpg",
-      "https://example.com/photos/livingroom26.jpg",
-      "https://example.com/photos/livingroom27.jpg"
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg",
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg.jpg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg",
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg"
     ],
     "isTrending": false,
     "NewProduct": false,
@@ -401,12 +428,15 @@
       "Easy to assemble"
     ],
     "price": 450,
-    "discount": 10,
+    "discount": 650,
     "reviews": 18,
     "photosArray": [
-      "https://example.com/photos/livingroom28.jpg",
-      "https://example.com/photos/livingroom29.jpg",
-      "https://example.com/photos/livingroom30.jpg"
+      "https://images.pexels.com/photos/6585622/pexels-photo-6585622.jpeg",
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
+      "https://images.pexels.com/photos/271795/pexels-photo-271795.jpeg.jpg",
+      "https://images.pexels.com/photos/20390763/pexels-photo-20390763/free-photo-of-furniture-in-a-minimalist-living-room.jpeg",
+      "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg",
+      "https://images.pexels.com/photos/1484981/pexels-photo-1484981.jpeg.jpg"
     ],
     "isTrending": false,
     "NewProduct": false,
